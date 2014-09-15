@@ -17,6 +17,11 @@ descript: 移动前端技术周报，重点关注 mobile web develop, html5, css
 
 推荐原因: 详细讲解了中文字体在网页开发方面的相关内容
 
+类似库:
+
+[one-div - by Vincent Durand](http://one-div.com/)
+[iconfont - by 阿里巴巴](http://iconfont.cn/)
+
 ## 其他前端技术文章
 
 [iPhone 6 屏幕揭秘](http://www.paintcodeapp.com/news/iphone-6-screens-demystified)
