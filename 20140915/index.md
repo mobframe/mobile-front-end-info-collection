@@ -17,6 +17,12 @@ descript: 移动前端技术周报，重点关注 mobile web develop, html5, css
 
 推荐原因: 详细讲解了中文字体在网页开发方面的相关内容
 
+## 其他前端技术文章
+
+[iPhone 6 屏幕揭秘](http://www.paintcodeapp.com/news/iphone-6-screens-demystified)
+
+推荐原因：多图讲解iPhone6和iPhone6 plus的分辨率问题.[中文翻译版本](http://wileam.com/iphone-6-screen-cn/)
+
 ## Node.js 技术文章
 
 [How to debug Node.js applications](http://stackoverflow.com/questions/1911015/how-to-debug-node-js-applications/16512303#16512303)
