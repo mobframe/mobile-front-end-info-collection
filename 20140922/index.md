@@ -17,3 +17,14 @@ descript: 移动前端技术周报，重点关注 mobile web develop, html5, css
 
 推荐理由: iOS 8 Safari 支持 WebGL, 显著性能提升，同时对 hybrid app 提供了新的 WKWebView 实现，终于有了 Nitro JS 引擎支持，整体上对 HTML5 在移动端的前景是重大利好。(by 尤雨溪) 同时 iOS 8 Safari 还支持了 SPDY, 对速度优化是一个好消息。
 
+## 网络技术文章
+
+[HTTP 2 中文版](http://fex.baidu.com/blog/2014/09/http-2.0/)
+
+推荐理由: 作为与时俱进的我们，有必要去了解和学习 HTTP 2，它对我们未来 Web 性能优化工作起到很重要的作用，是一切优化的基础。现 Chrome 里也已使用 SPDY。
+
+## Node.js技术文章
+
+[Javascript 的前后端统一是个"笑话"吗](http://www.jianshu.com/p/5f6637bf15fd)
+
+推荐理由: 从真实项目介绍自己前后端统一的使用经历，非常详细很有参考价值。
