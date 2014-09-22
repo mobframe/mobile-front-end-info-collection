@@ -17,6 +17,10 @@ descript: 移动前端技术周报，重点关注 mobile web develop, html5, css
 
 推荐理由: iOS 8 Safari 支持 WebGL, 显著性能提升，同时对 hybrid app 提供了新的 WKWebView 实现，终于有了 Nitro JS 引擎支持，整体上对 HTML5 在移动端的前景是重大利好。(by 尤雨溪) 同时 iOS 8 Safari 还支持了 SPDY, 对速度优化是一个好消息。
 
+[iPhone 6 屏幕揭秘 - by PaintCode, 小雪-Joanna 译] (http://wileam.com/iphone-6-screen-cn/)
+
+推荐理由：图文并茂得讲述了 iphone6 plus 升级后屏幕渲染的变化
+
 ## Webapp 技术文章
 
 [react and js in facebook - 演讲](http://www.infoq.com/cn/presentations/react-js-and-javascript-in-facebook)
