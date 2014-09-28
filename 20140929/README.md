@@ -15,6 +15,10 @@ descript: 移动前端技术周报，重点关注 mobile web develop, html5, css
 
 推荐理由：详细介绍了 iOS8 相关的前端技术变化，推荐阅读
 
+[awsome-svg最全SVG资料集合](https://github.com/willianjusten/awesome-svg)    
+推荐理由：从基础入门到高级用法，你想要的SVG资料在这里都能找到
+
+
 ## Web安全
 
 [bash代码注入的安全漏洞 - by coolshell](http://coolshell.cn/articles/11973.html)
