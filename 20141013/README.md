@@ -13,6 +13,10 @@ descript: 移动前端技术周报，重点关注 mobile web develop, html5, css
 
 推荐理由：为什么console.log经常打印不出指定变量内容？js的回调函数是怎么一回事？它的运作机制是什么？本文深入讲解了上述内容，为你解开JS事件机制的终极谜团。
 
+### [【朴灵评注】JavaScript 运行机制详解：再谈Event Loop](https://app.yinxiang.com/shard/s8/sh/b72fe246-a89d-434b-85f0-a36420849b84/59bad790bdcf6b0a66b8b93d5eacbead)
+
+推荐理由：朴灵对阮一峰上篇文章的补充
+
 ### [两年内从零到每月十亿 PV 的发展来谈 Pinterest 的架构设计](http://www.oschina.net/translate/scaling-pinterest-from-0-to-10s-of-billions-of-page-views) 英文原版[Scaling Pinterest - From 0 To 10s Of Billions Of Page Views A Month In Two Years](http://highscalability.com/blog/2013/4/15/scaling-pinterest-from-0-to-10s-of-billions-of-page-views-a.html)
 
 推荐理由：详细讲述了Pinterest 从0开始的服务端架构变迁，以及做过的正确的和错误的那些选择，并阐述了Pinterest对于架构自己的观点。
