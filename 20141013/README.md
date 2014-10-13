@@ -15,4 +15,4 @@ descript: 移动前端技术周报，重点关注 mobile web develop, html5, css
 
 ### [两年内从零到每月十亿 PV 的发展来谈 Pinterest 的架构设计](http://www.oschina.net/translate/scaling-pinterest-from-0-to-10s-of-billions-of-page-views) 英文原版[Scaling Pinterest - From 0 To 10s Of Billions Of Page Views A Month In Two Years](http://highscalability.com/blog/2013/4/15/scaling-pinterest-from-0-to-10s-of-billions-of-page-views-a.html)
 
-推荐理由：详细讲述了Pinterest 从0开始的服务端架构变迁，并阐述了Pinterest对于架构自己的观点。
+推荐理由：详细讲述了Pinterest 从0开始的服务端架构变迁，以及做过的正确的和错误的那些选择，并阐述了Pinterest对于架构自己的观点。
