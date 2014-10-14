@@ -14,7 +14,9 @@ descript: 移动前端技术周报，重点关注 mobile web develop, html5, css
 推荐理由：srcset 可以为不同分辨率的用户提供适合的图片大小的解决方案。之前只有 Safari 支持该属性，而现在刚刚发布的 Chrome 34 也开始支持。
 
 [JS如何监控css3动画](http://h5dev.uc.cn/article-24-1.html)
+
 推荐理由: 介绍js监听css3 transitions 和 keyframe animations 事件的方法。
 
 [JS内存泄漏排查方法——Chrome Profiles](http://h5dev.uc.cn/article-25-1.html)
+
 推荐理由：介绍了利用chrome排除js内存泄露的方法，也适用于node.js
