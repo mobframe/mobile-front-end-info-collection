@@ -20,3 +20,7 @@ descript: 移动前端技术周报，重点关注 mobile web develop, html5, css
 [JS内存泄漏排查方法——Chrome Profiles by fengzk](http://h5dev.uc.cn/article-25-1.html)
 
 推荐理由：介绍了利用chrome排除js内存泄露的方法，也适用于node.js
+
+[JS Generators 权威指南 The Definitive Guide to the JavaScript Generators by Gajus Kuizinas](http://gajus.com/blog/2/the-definetive-guide-to-the-javascript-generators)
+
+推荐理由：详细讲解了 JS Generator 的方方面面，浅显易懂
