@@ -26,4 +26,5 @@ descript: 移动前端技术周报，重点关注 mobile web develop, html5, css
 推荐理由：详细讲解了 JS Generator 的方方面面，浅显易懂
 
 [React.js编程思想 翻译by 张小俊](http://www.html-js.com/article/Using-Reactjs-to-develop-web-application-Reactjs-programming-ideas)
+
 推荐理由：JavaScript框架层出不穷，在很多程序员看来，React.js是创建大型、快速的Web应用的最好方式。这一款由Facebook出品的JS框架，无论是在Facebook还是在Instagram中，它的表现都非常出色。本文介绍了相关内容
