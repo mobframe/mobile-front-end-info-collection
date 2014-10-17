@@ -28,3 +28,7 @@ descript: 移动前端技术周报，重点关注 mobile web develop, html5, css
 [React.js编程思想 翻译by 张小俊](http://www.html-js.com/article/Using-Reactjs-to-develop-web-application-Reactjs-programming-ideas)
 
 推荐理由：JavaScript框架层出不穷，在很多程序员看来，React.js是创建大型、快速的Web应用的最好方式。这一款由Facebook出品的JS框架，无论是在Facebook还是在Instagram中，它的表现都非常出色。本文介绍了相关内容
+
+[浏览器工作原理解析](英文原版：http://taligarsiel.com/Projects/howbrowserswork1.htm、中文翻译：http://ux.sohu.com/topics/50972d9ae7de3e752e0081ff#)
+
+推荐理由：详细的解析了浏览器的工作原理，及一些减少重排重绘的优化策略
