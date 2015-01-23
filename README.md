@@ -6,3 +6,9 @@ mobile-front-end-info-collection
 只发干货，不发鸡汤。只求精，不求多。
 
 觉得不错就点 右上角 WATCH 按钮订阅我哦!也可通过github issue投稿。
+
+微信订阅号: Web开发技术周刊
+
+![GitHub Logo](http://mobframe.github.io/qrcode.png)
+
+相关站点：[boke.io](http://boke.io/)
