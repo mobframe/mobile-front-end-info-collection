@@ -9,7 +9,7 @@ mobile-front-end-info-collection
 
 微信订阅号:Web开发技术周刊
 
-[![微信二维码][qr-image]]
+![微信二维码][qr-image]
 
 相关站点：[boke.io](http://boke.io/)
 
