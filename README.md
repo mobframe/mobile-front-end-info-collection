@@ -13,6 +13,6 @@ mobile-front-end-info-collection
 
 ![微信二维码][qr-image]
 
-相关站点：[boke.io](http://boke.io/),[往期周报](https://github.com/mobframe/mobile-front-end-info-collection/issues?q=is%3Aissue+is%3Aclosed)
+[往期周报](https://github.com/mobframe/mobile-front-end-info-collection/issues?q=is%3Aissue+is%3Aclosed), 相关站点：[boke.io](http://boke.io/)
 
 [qr-image]: http://mobframe.github.io/mobile-front-end-info-collection/qrcode.jpg
