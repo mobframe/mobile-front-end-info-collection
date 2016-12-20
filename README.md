@@ -1,7 +1,7 @@
 mobile-front-end-info-collection
 ================================
 
-移动前端技术周报，重点关注 mobile web develop, html5, css3, ECMAScript 6, node.js 等前沿技术。
+移动前端技术周报，重点关注 mobile web develop, html5, css3, ECMAScript 6, node.js, AR ,VR 等前沿技术。
 
 只发干货，不发鸡汤。只求精，不求多。
 
